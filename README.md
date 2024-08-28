@@ -4,3 +4,4 @@
 
 FOR A COPY OF THIS SPREADSHEET:
 EMAIL: cayabyab.chrisdaniel@gmail.com
+PRICE: 10USD
