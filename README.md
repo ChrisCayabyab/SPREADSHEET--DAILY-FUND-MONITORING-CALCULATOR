@@ -8,4 +8,4 @@ Features:
 it calculates if the money given is exact,excessive or not enough for the particular week.
 
 To have a copy: copy and paste to browser
-https://docs.google.com/spreadsheets/d/1WvXgrl2QoTCiNIHvQ2_2q24riuim_K1ERXX52qxz_Ns/edit?usp=sharingcopy
+https://docs.google.com/spreadsheets/d/1WvXgrl2QoTCiNIHvQ2_2q24riuim_K1ERXX52qxz_Ns/copy
